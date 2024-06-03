@@ -9,6 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "chroma-js": "^2.4.2",
+    "date-fns": "^3.6.0",
     "expo": "^51.0.0",
     "expo-constants": "~16.0.2",
     "expo-linking": "~6.3.1",
